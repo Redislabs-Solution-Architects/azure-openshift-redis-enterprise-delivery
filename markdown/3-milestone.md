@@ -13,13 +13,11 @@ Notes:
   - Scale
   - Time to market
 - Not required
-
-
+---
 ## Community
 
 - [Redis Community Discord](https://discord.gg/gBsDAXF4)
-
-
+---
 ## Resources
 
 - [Redis University](https://university.redislabs.com/)

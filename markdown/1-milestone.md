@@ -1,10 +1,11 @@
 ## Introductions
 ## Level Set
 ## Capturing the Baseline
-
+---
 
 ## Introductions
-- Azure & Redis Labs / Providers
+
+- Azure, OpenShift & Redis Labs / Providers
 - Partner / Consumers
 - [Cloud Adoption Framework : Foundational Alignment](https://docs.microsoft.com/en-us/azure/cloud-adoption-framework/get-started/cloud-concepts)
 
@@ -15,8 +16,7 @@ Notes:
   should be the same as the team
   providing the enablement
   and doing the assessments
-
-
+---
 ## Get Started Objectives
 
 - Get 1 workload to production successfully
@@ -30,8 +30,7 @@ Notes:
 Notes:
 - This plan should be adjusted as needed
 - Designed to be delivered at scale
-
-
+---
 ## Understanding the Stakeholders
 
 - Sponsors                                                                                                                                                                    
@@ -44,8 +43,7 @@ Notes:
 - Who are the stakeholders
 - Who are the customers
 - Who cares about the business outcomes
-
-
+---
 #### Why are we here?
 
 - Describe your application/product/workload as it is today

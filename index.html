@@ -4,7 +4,7 @@
 		<meta charset="utf-8">
 		<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
 
-		<title>ACRE Adoption Framework</title>
+		<title>Redis Enterprise, OpenShift, Azure, Delivery Framework</title>
 
 		<link rel="stylesheet" href="/reveal.js-4.1.2/dist/reset.css">
 		<link rel="stylesheet" href="/reveal.js-4.1.2/dist/reveal.css">
@@ -21,8 +21,8 @@
 		<div class="reveal">
 			<div class="slides">
 				<section data-markdown="markdown/main.md"
-						 data-separator="^\n\n\n"
-						 data-separator-vertical="^\n\n"
+						 data-separator-vertical="^---"
+						 data-separator="^NNN"
 						 data-separator-notes="^Notes:"
 						 data-charset="utf8"
 						 data-background-position="top"
@@ -30,8 +30,8 @@
 						 data-background-image="/images/redis-icon.svg">
 				</section>
 				<section data-markdown="markdown/0-milestones.md"
-						 data-separator="^\n\n\n"
-						 data-separator-vertical="^\n\n"
+						 data-separator-vertical="^---"
+						 data-separator="^NNN"
 						 data-separator-notes="^Notes:"
 						 data-charset="utf8"
 						 data-background-position="top"
@@ -39,8 +39,8 @@
 						 data-background-image="/images/redis-icon.svg">
 				</section>
 				<section data-markdown="markdown/1-milestone.md"
-						 data-separator="^\n\n\n"
-						 data-separator-vertical="^\n\n"
+						 data-separator-vertical="^---"
+						 data-separator="^NNN"
 						 data-separator-notes="^Notes:"
 						 data-charset="utf-8"
 						 data-background-size="100px"
@@ -48,8 +48,8 @@
 						 data-background-image="/images/redis-icon.svg">
 				</section>
 				<section data-markdown="markdown/2-milestone.md"
-						 data-separator="^\n\n\n"
-						 data-separator-vertical="^\n\n"
+						 data-separator-vertical="^---"
+						 data-separator="^NNN"
 						 data-separator-notes="^Notes:"
 						 data-charset="utf-8"
 						 data-background-size="100px"
@@ -57,8 +57,8 @@
 						 data-background-image="/images/redis-icon.svg">
 				</section>
 				<section data-markdown="markdown/3-milestone.md"
-						 data-separator="^\n\n\n"
-						 data-separator-vertical="^\n\n"
+						 data-separator-vertical="^---"
+						 data-separator="^NNN"
 						 data-separator-notes="^Notes:"
 						 data-charset="utf-8"
 						 data-background-size="100px"
@@ -66,8 +66,8 @@
 						 data-background-image="/images/redis-icon.svg">
 				</section>
 				<section data-markdown="markdown/4-milestone.md"
-						 data-separator="^\n\n\n"
-						 data-separator-vertical="^\n\n"
+						 data-separator-vertical="^---"
+						 data-separator="^NNN"
 						 data-separator-notes="^Notes:"
 						 data-charset="utf-8"
 						 data-background-size="100px"
@@ -75,8 +75,8 @@
 						 data-background-image="/images/redis-icon.svg">
 				</section>
 				<section data-markdown="markdown/5-milestone.md"
-						 data-separator="^\n\n\n"
-						 data-separator-vertical="^\n\n"
+						 data-separator-vertical="^---"
+						 data-separator="^NNN"
 						 data-separator-notes="^Notes:"
 						 data-charset="utf-8"
 						 data-background-size="100px"
@@ -84,8 +84,8 @@
 						 data-background-image="/images/redis-icon.svg">
 				</section>
 				<section data-markdown="markdown/thanks.md"
-						 data-separator="^\n\n\n"
-						 data-separator-vertical="^\n\n"
+						 data-separator-vertical="^---"
+						 data-separator="^NNN"
 						 data-separator-notes="^Notes:"
 						 data-charset="utf-8"
 						 data-background-size="100px"
@@ -108,19 +108,8 @@
 				center: true,
 				hash: false,
 				plugins: [ RevealMarkdown, RevealHighlight, RevealNotes ]
-
 			});
 		</script>
-        <script type="text/javascript">
-			const startDate = new Date("10/19/2020");
-			const today = new Date();
-			const Difference_In_Time = today.getTime() - startDate.getTime();
-			const Difference_In_Days = Difference_In_Time / (1000 * 3600 * 24);
-
-            Reveal.addEventListener( 'ready', function() {
-                document.getElementById("the-number-of-days").innerHTML = '' + Math.ceil(Difference_In_Days);
-            }, false );
-        </script>
 	</body>
 </html>
 

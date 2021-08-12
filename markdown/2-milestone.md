@@ -1,7 +1,6 @@
-## Azure Cache for Redis Enterprise 101
+## Redis Enterprise via OpenShift Marketplace
 #### Enablement Session
-
-
+---
 #### Redis OSS
 
 - Ubiquitous
@@ -10,31 +9,12 @@
   - Database
   - Message Broker
 - Low Latency
-
-
+---
 ### Redis Enterprise
 
 - Geo-Replication
   - Conflict Resolution Data Types
 - Enterprise Flash
 - Modules
-  - Search
-  - Time Series
-  - Bloom
-
-
-### First Class Product
-
-- 99.999 SLA (At GA)
-  - Geo-Replication with 3 AZs
-- Tier 1 support provided by Azure
-- Azure Support and Azure Engineering aligned with Redis Labs
-  - Redis Labs is the home of Redis
-
-
-### Documentation
-
-- [Azure Documentation](https://docs.microsoft.com/en-us/azure/azure-cache-for-redis/)
-
-
+---
 ### Q&A

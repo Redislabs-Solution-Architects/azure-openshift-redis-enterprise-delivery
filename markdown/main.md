@@ -1,2 +1,4 @@
-### Azure Cache for Redis Enterprise
-#### Adoption Framework
+### Redis Enterprise
+### OpenShift
+### Azure
+#### Delivery Framework

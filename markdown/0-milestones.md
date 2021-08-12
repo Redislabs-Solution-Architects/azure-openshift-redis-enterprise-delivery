@@ -1,9 +1,9 @@
 ### Milestones
 
-1. Introductions / Level Set / Baseline
-2. Azure Cache for Redis Enterprise 101
-3. Enablement
-4. Ready for Launch   
+1. Introductions / Level Set / Capture Baseline
+2. Enablement
+3. Ready for Launch
+4. Target State
 5. Assessment
 
 Notes:
