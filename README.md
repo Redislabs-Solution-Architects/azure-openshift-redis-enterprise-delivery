@@ -16,7 +16,7 @@ A framework for adopting Redis Enterprise on OpenShift that tries to align with 
     ```
     docker run --name delivery -v $PWD/:/usr/share/nginx/html:ro -d -p 8087:80 nginx
     ``` 
-4.  Open browser to http://localhost:8089/
+4.  Open browser to <a href="http://localhost:8087/" target="_blank">http://localhost:8087/</a>
 
 ## Five Milestones
 
